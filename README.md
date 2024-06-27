@@ -24,27 +24,27 @@ A simple web application to track employee payroll. This project includes an HTM
 ## Demo
 Navigate to the webpage and look for the button that says "Add Employees".
 
-![Homepage Screenshot](./assets/images/EPT-SS1.png) 
+![Homepage Screenshot](.\assets\images\EPT-SS1.png)
 
 After clicking on the "Add Employees" button, you will be prompted to enter the First Name of the employee.
 
-![First Name Input Screenshot](./assets/images/EPT-SS2.png)
+![First Name Input Screenshot](.\assets\images\EPT-SS2.png)
 
 After selecting the "OK" button, you will then be prompted to enter the Last Name of the employee.
 
-![Last Name Input Screenshot](./assets/images/EPT-SS3.png)
+![Last Name Input Screenshot](.\assets\images\EPT-SS3.png)
 
 After entering the employee Last Name and selecting "OK", you will then be prompted to enter the employees salary.
 
-![Salary Input Screenshot](./assets/images/EPT-SS4.png)
+![Salary Input Screenshot](.\assets\images\EPT-SS4.png)
 
 Once the salary information is entered, the user will have the option to add another employee by selecting the "OK" button and repeating the previous 3 steps for any additional employees.
 
-![Additional Employees Input Screenshot](./assets/images/EPT-SS5.png)
+![Additional Employees Input Screenshot](.\assets\images\EPT-SS5.png)
 
 After the steps are completed and all employees have been added, the "Cancel" button can be selected to take the user to the Employee Roster where they can view employee payroll information in alphabetical order.
 
-![Employee Roster Screenshot](./assets/images/EPT-SS6.png)
+![Employee Roster Screenshot](.\assets\images\EPT-SS6.png)
 
 ## Credits
 - Developer: Alanna Johnson-Garza
