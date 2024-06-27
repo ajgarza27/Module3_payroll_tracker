@@ -3,7 +3,6 @@
 ## Description
 A simple web application to track employee payroll. This project includes an HTML, Javascript, and CSS structure and functionality to display employee information, such as first name, last name, and salary to manage employee data.
 
-
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -59,4 +58,3 @@ https://github.com/ajgarza27
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
