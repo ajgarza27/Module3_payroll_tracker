@@ -54,7 +54,7 @@ https://github.com/ajgarza27
 
 - Repository: https://github.com/ajgarza27/Module3_payroll_tracker.git
 
-- Deployed URL: 
+- Deployed URL: https://ajgarza27.github.io/employee_payroll_tracker/
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
